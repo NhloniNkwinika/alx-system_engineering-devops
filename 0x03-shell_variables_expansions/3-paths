@@ -1,2 +1,2 @@
 #!/bin/bash
-./count-paths
+./count-paths.sh
