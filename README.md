@@ -1,5 +1,5 @@
 <h1>System Engineering and Devops</h1>
-<p><strong>All folders contain projects I completed during the studies</strong> </p>
+<p><strong>All folders contain projects I completed while studying with ALX&Holberton</strong> </p>
 <a href="https://github.com/NhloniNkwinika/alx-system_engineering-devops/tree/master/0x00-shell_basics">* 0x00-shell_basics</a>
 <p>I learnt about basics commands, navigation, files and directories in Shell</p>
 <br>
