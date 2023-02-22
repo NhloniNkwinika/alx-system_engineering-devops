@@ -7,7 +7,7 @@
 <p>I learnt about man pages, permissions (owner, group and other) of files and directories in Shell</p>
 <br>
 <a href="https://github.com/NhloniNkwinika/alx-system_engineering-devops/tree/master/0x02-shell_redirections">* 0x02-shell_redirections </a>
-<p>Educates about how to handle standard input and output and how to combine commands and filters with redirections in Shell</p>
+<p>Educates on how to handle standard input and output and how to combine commands and filters with redirections in Shell</p>
 <br>
 <a href="https://github.com/NhloniNkwinika/alx-system_engineering-devops/tree/master/0x03-shell_variables_expansions">
 * 0x03-shell_variable_expansions</a>
